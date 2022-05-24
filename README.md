@@ -103,7 +103,7 @@ As you see, We can detect the anomality data(yellow color) and failure data(yell
 
 <img src="./Images/rel_cluster_number_time_k5.png" />
 
-As you see, the green-colored clutser is redundant.
+As you see, the lightgreen-colored clutser is redundant.
 
 * Result
 
