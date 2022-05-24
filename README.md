@@ -10,7 +10,7 @@ We interested in obtaining some patterns of spindle motor failure, given the dat
 
 <img
     src="./Images/experiment_setup.jpg"
-    style="display: block; margin: 0 auto; width: 100px; height: 100px">
+    style="display: block; margin: 0 auto; width: 200px; height: 200px"
 />
 
 
