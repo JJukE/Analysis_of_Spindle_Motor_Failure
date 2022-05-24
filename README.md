@@ -1,5 +1,16 @@
 # BigDataAnalysis
-Term Project of BigDataAnalysis
+
+Term Project of Big Data Analysis Course
+
+**Analysis of High-speed Spindle Motor Failure using Big Data**
+
+* Introduction
+
+We interested in obtaining some patterns of spindle motor failure, given the data from displacement sensors(x axis, y axis, respectively).
+
+![experiment](./Images/experiment setup.jpg)
+
+
 
 
 # 1. Data Preprocessing
@@ -19,6 +30,8 @@ Term Project of BigDataAnalysis
 # 3. Analysis
 
 ```
+Project Tree is as follows
+
 BigDataAnalysis
 ├─ .DS_Store
 ├─ ._.DS_Store
