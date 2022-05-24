@@ -2,13 +2,13 @@
 Term Project of BigDataAnalysis
 
 
-# Data Preprocessing
+# 1. Data Preprocessing
 
 ## 1) Directly Dealing with 600 Million Data (Failed)
 
 ## 2) FFT
 
-# K-means Clustering
+# 2. K-means Clustering
 
 ## 1) using Pyspark
 
@@ -16,4 +16,4 @@ Term Project of BigDataAnalysis
 
 ## 3) Plotting
 
-# Analysis
+# 3. Analysis
