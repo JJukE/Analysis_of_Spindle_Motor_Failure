@@ -8,10 +8,13 @@ Term Project of Big Data Analysis Course
 
 We interested in obtaining some patterns of spindle motor failure, given the data from displacement sensors(x axis, y axis, respectively).
 
+<p aligh="center">
 <img
     src="./Images/experiment_setup.jpg"
-    style="display: block; margin: auto; width: 200px; height: 200px"
+    width="200px"
+    height="200px"
 />
+</p>
 
 
 
